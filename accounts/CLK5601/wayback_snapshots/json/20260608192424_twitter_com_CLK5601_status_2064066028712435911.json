@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2064048361548997113",
+    "created_at": "2026-06-08T19:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T20:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064066028712435911"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064066028712435911",
+    "in_reply_to_user_id": "1838527847570509826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064048361548997113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过又说回来，如果父母只想要个完全符合自己期望的子女，套用这个人的话\n别人不欠我，反过来我也不欠别人，可以随便抱怨，随便恨\n而父母在“养育”这个领域的所有不满，子女也能回答他们“要么忍，要么滚”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2064048361548997113",
+        "created_at": "2026-06-08T19:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064066028712435911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064066028712435911",
+        "in_reply_to_user_id": "1838527847570509826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064048361548997113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过又说回来，如果父母只想要个完全符合自己期望的子女，套用这个人的话\n别人不欠我，反过来我也不欠别人，可以随便抱怨，随便恨\n而父母在“养育”这个领域的所有不满，子女也能回答他们“要么忍，要么滚”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2064048361548997113",
+        "created_at": "2026-06-08T18:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T19:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064048361548997113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jessica3187519…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/Jessica31875193/status/2063848370972799207",
+              "start": 127,
+              "url": "https://t.co/OHcXf1lqgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064048361548997113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063848370972799207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈呀，我都不知道怎么说了\n如果在卵子受精前，就已经存在生命了\n那么这个生命到底算在精子上？还是算在卵子上？\n女生和男生都有生理现象，那是不是“杀生”？\n如果受精前就已经算生命，那父母不就是一直在杀生？父母所谓的“给一条生路”，不就属于是虚伪的心理安慰？ https://t.co/OHcXf1lqgj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 1400,
+          "like_count": 2007,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 189
+        },
+        "username": "CLK5601",
+        "verified": false
+      }
+    ]
+  }
+}

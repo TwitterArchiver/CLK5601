@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2064067526028657044",
+    "created_at": "2026-06-08T19:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T20:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064067526028657044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1987138845058736133",
+          "start": 3,
+          "username": "maipianaini0930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064067526028657044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064032676085133513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maipianaini0930: 这些人都是条子\n\n打算一直锁推 这是我用推以来最长没被晶过的一次：7个月。条子缺业绩最爱干也最下流的一件事就是搜那个人的名字。他们自己却都不敢说。发现你骂过他 继续翻我靠不得了抽大麻贴票自残“宣传怂恿他人自伤”我看见还有这么宗罪不亚于薄…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_2064032662298533888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTqxUkboAAHQF6.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2064067526028657044",
+        "created_at": "2026-06-08T19:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064067526028657044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1987138845058736133",
+              "start": 3,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064067526028657044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064032676085133513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maipianaini0930: 这些人都是条子\n\n打算一直锁推 这是我用推以来最长没被晶过的一次：7个月。条子缺业绩最爱干也最下流的一件事就是搜那个人的名字。他们自己却都不敢说。发现你骂过他 继续翻我靠不得了抽大麻贴票自残“宣传怂恿他人自伤”我看见还有这么宗罪不亚于薄…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064032662298533888"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2064032676085133513",
+        "created_at": "2026-06-08T17:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064032676085133513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2G6QsMnG2E",
+              "end": 163,
+              "expanded_url": "https://x.com/maipianaini0930/status/2064032676085133513/photo/1",
+              "media_key": "3_2064032662298533888",
+              "start": 140,
+              "url": "https://t.co/2G6QsMnG2E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064032676085133513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这些人都是条子\n\n打算一直锁推 这是我用推以来最长没被晶过的一次：7个月。条子缺业绩最爱干也最下流的一件事就是搜那个人的名字。他们自己却都不敢说。发现你骂过他 继续翻我靠不得了抽大麻贴票自残“宣传怂恿他人自伤”我看见还有这么宗罪不亚于薄熙来庭审看见别人贿赂给他儿子送平衡车的反应 https://t.co/2G6QsMnG2E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 1400,
+          "like_count": 2010,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 190
+        },
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 312,
+          "like_count": 10185,
+          "listed_count": 2,
+          "media_count": 656,
+          "tweet_count": 4393
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

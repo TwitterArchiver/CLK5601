@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2064874832630853854",
+    "created_at": "2026-06-11T18:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T19:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065132804011364685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060679315126439936",
+          "start": 0,
+          "username": "MioKitsukawa"
+        },
+        {
+          "end": 22,
+          "id": "1601617260439044096",
+          "start": 14,
+          "username": "we_0587"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065132804011364685",
+    "in_reply_to_user_id": "2060679315126439936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064878611442876511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MioKitsukawa @we_0587 算春梦😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2064874832630853854",
+        "created_at": "2026-06-11T18:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065132804011364685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060679315126439936",
+              "start": 0,
+              "username": "MioKitsukawa"
+            },
+            {
+              "end": 22,
+              "id": "1601617260439044096",
+              "start": 14,
+              "username": "we_0587"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065132804011364685",
+        "in_reply_to_user_id": "2060679315126439936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064878611442876511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MioKitsukawa @we_0587 算春梦😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060679315126439936",
+        "conversation_id": "2064874832630853854",
+        "created_at": "2026-06-11T01:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T02:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064878611442876511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1601617260439044096",
+              "start": 0,
+              "username": "we_0587"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064878611442876511",
+        "in_reply_to_user_id": "1601617260439044096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064878360170565931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@we_0587 这是美梦还是噩梦啊呜呜呜呜呜呜…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 1441,
+          "like_count": 2251,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 197
+        },
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "已经 HRT 几年的 MTF | 18 岁 | 同类互 fo | ASD | 程序开发 | 不 od 不割手 | 我的性别认同是自出生以来就有的，我不是效仿和盲从 | 喜欢唐毓文❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MioKitsukawa",
+                "end": 23,
+                "expanded_url": "http://t.me/MioKitsukawa",
+                "start": 0,
+                "url": "https://t.co/qFaaLHTasJ"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2063479038107340889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060685033225228288/M9pISiDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 301,
+          "like_count": 225,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 282
+        },
+        "url": "https://t.co/qFaaLHTasJ",
+        "username": "MioKitsukawa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-10T16:38:17.000Z",
+        "description": "你好 我是個好人:D / (我純樂子 別看我 我怕)（不是mtf不是mtf不是mtf）",
+        "id": "1601617260439044096",
+        "name": "WE",
+        "pinned_tweet_id": "2063620922482012271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025956937263886336/39mcej-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 214,
+          "like_count": 910,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 974
+        },
+        "username": "we_0587",
+        "verified": false
+      }
+    ]
+  }
+}

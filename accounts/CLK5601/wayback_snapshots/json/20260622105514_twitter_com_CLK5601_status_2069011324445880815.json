@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2069011324445880815",
+    "created_at": "2026-06-22T10:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069011324445880815"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AraBh_channels…",
+          "end": 171,
+          "expanded_url": "https://twitter.com/AraBh_channels/status/2068659530087748014",
+          "start": 148,
+          "url": "https://t.co/v4bOITR81f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069011324445880815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068659530087748014",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "地图炮就挺莫名其妙\n目前争论说到底是公关问题\n哪怕连好好聊聊也不愿意了\n回过头来就是“我不到啊”和“怎么？不能说？”\n情绪有很正常，但是不该用地图炮这种方式，更何况是“全部都是”这种相当极端的用词\n有人被波及了也别怪有人过来骂街\n一会嘲讽说某些人“阴谋论”，一会又是“保留指控”，很容易让人误解 https://t.co/v4bOITR81f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2068658200107462656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVZrDsasAA9KAX.jpg",
+        "width": 961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2069011324445880815",
+        "created_at": "2026-06-22T10:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069011324445880815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AraBh_channels…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/AraBh_channels/status/2068659530087748014",
+              "start": 148,
+              "url": "https://t.co/v4bOITR81f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069011324445880815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068659530087748014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "地图炮就挺莫名其妙\n目前争论说到底是公关问题\n哪怕连好好聊聊也不愿意了\n回过头来就是“我不到啊”和“怎么？不能说？”\n情绪有很正常，但是不该用地图炮这种方式，更何况是“全部都是”这种相当极端的用词\n有人被波及了也别怪有人过来骂街\n一会嘲讽说某些人“阴谋论”，一会又是“保留指控”，很容易让人误解 https://t.co/v4bOITR81f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068658200107462656"
+          ]
+        },
+        "author_id": "1640150075950374914",
+        "conversation_id": "2068654645434560891",
+        "created_at": "2026-06-21T11:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068659530087748014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1459453832",
+              "start": 0,
+              "username": "sauricat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8V67fX9qeV",
+              "end": 147,
+              "expanded_url": "https://x.com/AraBh_channels/status/2068659530087748014/photo/1",
+              "media_key": "3_2068658200107462656",
+              "start": 124,
+              "url": "https://t.co/8V67fX9qeV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068659530087748014",
+        "in_reply_to_user_id": "1459453832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8149,
+          "like_count": 27,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068654645434560891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sauricat 要記住，這些好事是整個社群努力的成果，不是他一個人拿來掩蓋自己惡行的理由，我對他的厭惡就是從當初看到他這條推文開始的（因爲一些原因用的拍屏截圖）.\n\n當時已經許久沒關注過救援活動的我看到這條推文時，還刻意去聯係贏駟問這貨是誰。 https://t.co/8V67fX9qeV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 1578,
+          "like_count": 2902,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T00:33:58.000Z",
+        "description": "“佛子既如是，堅持菩提心， 恆勤勿懈怠，莫違諸學處”。——寂天菩薩《入行論》。",
+        "id": "1640150075950374914",
+        "location": "普愿沉溺诸众生 速往无量光佛刹",
+        "name": "☸️BuKi道心",
+        "pinned_tweet_id": "1918315541317705753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046621560455512064/1PNf5YPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 631,
+          "like_count": 40029,
+          "listed_count": 4,
+          "media_count": 2148,
+          "tweet_count": 4925
+        },
+        "url": "",
+        "username": "AraBh_channels",
+        "verified": false
+      }
+    ]
+  }
+}

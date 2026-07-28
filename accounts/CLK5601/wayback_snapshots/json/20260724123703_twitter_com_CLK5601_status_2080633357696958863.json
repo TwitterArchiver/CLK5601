@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080633354790326272"
+      ]
+    },
+    "author_id": "1838527847570509826",
+    "conversation_id": "2076953497204068761",
+    "created_at": "2026-07-24T12:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080633357696958863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510447851507261445",
+          "start": 0,
+          "username": "LanziiLove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ptXsPLX3b5",
+          "end": 35,
+          "expanded_url": "https://x.com/CLK5601/status/2080633357696958863/photo/1",
+          "media_key": "3_2080633354790326272",
+          "start": 12,
+          "url": "https://t.co/ptXsPLX3b5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080633357696958863",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076953497204068761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanziiLove https://t.co/ptXsPLX3b5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2080633354790326272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_lAzQbUAA3KwD.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080633354790326272"
+          ]
+        },
+        "author_id": "1838527847570509826",
+        "conversation_id": "2076953497204068761",
+        "created_at": "2026-07-24T12:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080633357696958863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ptXsPLX3b5",
+              "end": 35,
+              "expanded_url": "https://x.com/CLK5601/status/2080633357696958863/photo/1",
+              "media_key": "3_2080633354790326272",
+              "start": 12,
+              "url": "https://t.co/ptXsPLX3b5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080633357696958863",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076953497204068761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove https://t.co/ptXsPLX3b5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2076953497204068761",
+        "created_at": "2026-07-14T08:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076953497204068761"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076953497204068761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 19538,
+          "like_count": 360,
+          "quote_count": 0,
+          "reply_count": 271,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "开个同类互fo贴喵\n\n愿意和俺成为朋友的同类饱饱fo我之后在评论区随便发点啥我就会回fo喵\n\n并非营销策略 单纯收集朋友圈让我知道哪些推友是善意的 以后也方便锁推"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14 /\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 1916,
+          "like_count": 5243,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 335
+        },
+        "url": "",
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年2月SRS｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 121,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 98,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29069,
+          "following_count": 1599,
+          "like_count": 3571,
+          "listed_count": 82,
+          "media_count": 501,
+          "tweet_count": 3202
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      }
+    ]
+  }
+}

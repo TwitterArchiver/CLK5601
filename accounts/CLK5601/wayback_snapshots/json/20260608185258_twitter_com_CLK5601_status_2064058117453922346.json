@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2064058117453922346",
+    "created_at": "2026-06-08T18:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T19:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064058117453922346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jessica3187519…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/Jessica31875193/status/2063937189051019662",
+          "start": 141,
+          "url": "https://t.co/KEaSTH6d6t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064058117453922346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063937189051019662",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "网上对话，不能指望谁能说服谁，大概率互相看不起\n所以有时候说半天，不过是方便让路人了解双方到底是什么货色\n对不对我不知道\n把“输赢”当成判断“对错”的方式，大概是做题做傻了\n别人又不认同“忍或滚”这套规训，当然随便骂\n反倒是支持“忍或滚”的，事后还要专门发个推文，证明自己“对了” https://t.co/KEaSTH6d6t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2064058117453922346",
+        "created_at": "2026-06-08T18:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T19:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064058117453922346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jessica3187519…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Jessica31875193/status/2063937189051019662",
+              "start": 141,
+              "url": "https://t.co/KEaSTH6d6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064058117453922346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063937189051019662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "网上对话，不能指望谁能说服谁，大概率互相看不起\n所以有时候说半天，不过是方便让路人了解双方到底是什么货色\n对不对我不知道\n把“输赢”当成判断“对错”的方式，大概是做题做傻了\n别人又不认同“忍或滚”这套规训，当然随便骂\n反倒是支持“忍或滚”的，事后还要专门发个推文，证明自己“对了” https://t.co/KEaSTH6d6t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568495582762926082",
+        "conversation_id": "2063937189051019662",
+        "created_at": "2026-06-08T10:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063937189051019662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063937189051019662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 222,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你要是不撞得头破血流\n怎么证明我是对的呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 1400,
+          "like_count": 2007,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 189
+        },
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T07:04:39.000Z",
+        "description": "看人多的地方\n那里有流动性\n去人少的地方\n那里是盈利点",
+        "id": "1568495582762926082",
+        "location": "杭州",
+        "name": "贪狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062557730624450560/OYDlu0bI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 126,
+          "like_count": 5500,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 886
+        },
+        "username": "Jessica31875193",
+        "verified": false
+      }
+    ]
+  }
+}

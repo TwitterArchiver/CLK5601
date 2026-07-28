@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2063182336754413870",
+    "created_at": "2026-06-06T08:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T09:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063182336754413870"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/realMlgmXyysd/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/realMlgmXyysd/status/2047943363119476936",
+          "start": 2,
+          "url": "https://t.co/Jxz9mRBVFr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063182336754413870",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047943363119476936",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉 https://t.co/Jxz9mRBVFr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 875,
+        "media_key": "3_2047943360560930816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvBos5aoAAKPJC.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2063182336754413870",
+        "created_at": "2026-06-06T08:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063182336754413870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realMlgmXyysd/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/realMlgmXyysd/status/2047943363119476936",
+              "start": 2,
+              "url": "https://t.co/Jxz9mRBVFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063182336754413870",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047943363119476936",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉 https://t.co/Jxz9mRBVFr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047943360560930816"
+          ]
+        },
+        "author_id": "1249681779218190338",
+        "conversation_id": "2047745919026905308",
+        "created_at": "2026-04-25T07:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047943363119476936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060050991370891265",
+              "start": 0,
+              "username": "Shioochicqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3qqmBKUTfA",
+              "end": 99,
+              "expanded_url": "https://x.com/realMlgmXyysd/status/2047943363119476936/photo/1",
+              "media_key": "3_2047943360560930816",
+              "start": 76,
+              "url": "https://t.co/3qqmBKUTfA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047943363119476936",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 341,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047939847797809322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochicqwq 管理层两批人，一批人是代码基础开发和正经写内容的，另一批人是不干啥事就喜欢搞政治正确的左逼，内斗起来了，写内容的搞不过他们 https://t.co/3qqmBKUTfA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 1361,
+          "like_count": 1735,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 160
+        },
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T12:52:14.000Z",
+        "description": "A cat, nya~｜Inner @MlgmXyysd｜https://t.co/xB1GClxlkz｜😘@cjybyjk @WanBin1010｜XDA Recognized Developer｜Programmer/Engineer/Coder/Tipster｜CisF (DSD)｜Bisexuality｜Geek Girl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "MlgmXyysd"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "cjybyjk"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "WanBin1010"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "neko.ink",
+                "end": 52,
+                "expanded_url": "http://neko.ink",
+                "start": 29,
+                "url": "https://t.co/xB1GClxlkz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "neko.ink",
+                "end": 23,
+                "expanded_url": "https://neko.ink",
+                "start": 0,
+                "url": "https://t.co/PeWlFBJuYU"
+              }
+            ]
+          }
+        },
+        "id": "1249681779218190338",
+        "location": "In Your Heart 💘",
+        "name": "MlgmXyysd🐱💕",
+        "pinned_tweet_id": "1612139513215582209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057543814043320320/KHl6UoL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2985,
+          "following_count": 96,
+          "like_count": 7721,
+          "listed_count": 5,
+          "media_count": 560,
+          "tweet_count": 7584
+        },
+        "url": "https://t.co/PeWlFBJuYU",
+        "username": "realMlgmXyysd",
+        "verified": false
+      }
+    ]
+  }
+}

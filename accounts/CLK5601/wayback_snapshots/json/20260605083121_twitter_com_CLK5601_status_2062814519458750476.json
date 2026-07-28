@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2062802799956840622",
+    "created_at": "2026-06-05T08:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062814519458750476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1940456482744795138",
+          "start": 0,
+          "username": "ICEbingkuai95"
+        }
+      ],
+      "urls": [
+        {
+          "description": "深度求索（DeepSeek），成立于2023年，专注于研究世界领先的通用人工智能底层模型与技术，挑战人工智能前沿性难题。基于自研训练框架、自建智算集群和万卡算力等资源，深度求索团队仅用半年时间便已发布并开源多个百亿级参数大模型，如DeepSeek-LLM通用大语言模型、DeepSeek-Coder代码大模型，并在2024年1月率先开源国内首个MoE大模型（DeepSeek-MoE），各大模型在公开评测榜单及真实样本外的泛化效果均有超越同级别模型的出色表现。和 DeepSeek AI 对话，轻松接入 API。",
+          "display_url": "deepseek.com",
+          "end": 95,
+          "expanded_url": "https://www.deepseek.com/",
+          "start": 72,
+          "status": 200,
+          "title": "DeepSeek | 深度求索",
+          "unwound_url": "https://www.deepseek.com/",
+          "url": "https://t.co/RwueM6IE5X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062814519458750476",
+    "in_reply_to_user_id": "1940456482744795138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062802799956840622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ICEbingkuai95 哈哈，原来鲨鲨在你那边，是这个样子啊🤓\n可是在我这里，可是完全不一样哦🤗\n不害怕知道真相的话，就点开这个链接吧😄\nhttps://t.co/RwueM6IE5X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062802780344176640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCMMxQaUAANi64.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2062802799956840622",
+        "created_at": "2026-06-05T08:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062814519458750476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1940456482744795138",
+              "start": 0,
+              "username": "ICEbingkuai95"
+            }
+          ],
+          "urls": [
+            {
+              "description": "深度求索（DeepSeek），成立于2023年，专注于研究世界领先的通用人工智能底层模型与技术，挑战人工智能前沿性难题。基于自研训练框架、自建智算集群和万卡算力等资源，深度求索团队仅用半年时间便已发布并开源多个百亿级参数大模型，如DeepSeek-LLM通用大语言模型、DeepSeek-Coder代码大模型，并在2024年1月率先开源国内首个MoE大模型（DeepSeek-MoE），各大模型在公开评测榜单及真实样本外的泛化效果均有超越同级别模型的出色表现。和 DeepSeek AI 对话，轻松接入 API。",
+              "display_url": "deepseek.com",
+              "end": 95,
+              "expanded_url": "https://www.deepseek.com/",
+              "start": 72,
+              "status": 200,
+              "title": "DeepSeek | 深度求索",
+              "unwound_url": "https://www.deepseek.com/",
+              "url": "https://t.co/RwueM6IE5X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062814519458750476",
+        "in_reply_to_user_id": "1940456482744795138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062802799956840622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ICEbingkuai95 哈哈，原来鲨鲨在你那边，是这个样子啊🤓\n可是在我这里，可是完全不一样哦🤗\n不害怕知道真相的话，就点开这个链接吧😄\nhttps://t.co/RwueM6IE5X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062802780344176640"
+          ]
+        },
+        "author_id": "1940456482744795138",
+        "conversation_id": "2062802799956840622",
+        "created_at": "2026-06-05T07:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062802799956840622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7JL70I2vj6",
+              "end": 34,
+              "expanded_url": "https://x.com/ICEbingkuai95/status/2062802799956840622/photo/1",
+              "media_key": "3_2062802780344176640",
+              "start": 11,
+              "url": "https://t.co/7JL70I2vj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062802799956840622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？鲨鲨也要写代码吗🌚 https://t.co/7JL70I2vj6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 1321,
+          "like_count": 1611,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 136
+        },
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-02T17:04:21.000Z",
+        "description": "你好呀这里是冰块 可贴贴 同类可互粉！\n中焦重抑不od💊/🍥🏳️‍⚧️🏳️‍🌈 2010.9月生产的 mtf出柜成功\n观察期已结束准备证明中（家长党）/CN/EN/繁/JP/可交流\n音游痴@Icebingkuai9595（小号）不定时更新🥰谢谢喜欢🥰LGBT+友好🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "Icebingkuai9595"
+              }
+            ]
+          }
+        },
+        "id": "1940456482744795138",
+        "location": "成为那个最认可的她就是我的终点🏳️‍⚧️",
+        "name": "氷水化合物🏳️‍⚧️（迷茫版🥺）",
+        "pinned_tweet_id": "2049570638378188843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052783442648264704/LGTWMNVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 593,
+          "like_count": 1812,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 624
+        },
+        "username": "ICEbingkuai95",
+        "verified": false
+      }
+    ]
+  }
+}

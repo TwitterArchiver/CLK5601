@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2073597974844932436",
+    "created_at": "2026-07-05T02:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T03:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073597974844932436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4268263041",
+          "start": 3,
+          "username": "totmacherx"
+        },
+        {
+          "end": 25,
+          "id": "1913714736258031616",
+          "start": 16,
+          "username": "meynhero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073597974844932436",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072998983316754547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @totmacherx: @meynhero Dir ist schon klar, dass dieses \"opt-out\"-Verfahren absoluter schwachsinn ist?\nDu müsstest &gt;ALLE&lt; einzelnen medie…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2073597974844932436",
+        "created_at": "2026-07-05T02:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073597974844932436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4268263041",
+              "start": 3,
+              "username": "totmacherx"
+            },
+            {
+              "end": 25,
+              "id": "1913714736258031616",
+              "start": 16,
+              "username": "meynhero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073597974844932436",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072998983316754547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @totmacherx: @meynhero Dir ist schon klar, dass dieses \"opt-out\"-Verfahren absoluter schwachsinn ist?\nDu müsstest &gt;ALLE&lt; einzelnen medie…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4268263041",
+        "conversation_id": "2072967371472478448",
+        "created_at": "2026-07-03T11:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072998983316754547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913714736258031616",
+              "start": 0,
+              "username": "meynhero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072998983316754547",
+        "in_reply_to_user_id": "1913714736258031616",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {},
+          "text": "Dir ist schon klar, dass dieses \"opt-out\"-Verfahren absoluter schwachsinn ist?\nDu müsstest >ALLE< einzelnen medien von jedem Netzwerk eintragen das du irgendwo hinterlassen hast. Das funktioniert so lange, wie niemand dein Bild irgendwo postet. Wenn Ursula dein Bild nimmt und auf ihrem Profil postet und dich sogar brav darin verlinkt und credits gibt damit alles fair bleibt hast du nun eine weitere Kopie des Bildes das in keiner Opt-Out liste steht und wir ignorieren mal einfach das NIEMAND alle KI Firmen kennt und daher nicht zu 74878915 verschiedenen KIs gehen kann um sich da dann in eine blacklist eintragen zu lassen.\nDas ganze Verfahren ist einfach sinnfrei weil es einfach keinen sinn macht."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 32674,
+          "like_count": 181,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072967371472478448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meynhero Dir ist schon klar, dass dieses \"opt-out\"-Verfahren absoluter schwachsinn ist?\nDu müsstest &gt;ALLE&lt; einzelnen medien von jedem Netzwerk eintragen das du irgendwo hinterlassen hast. Das funktioniert so lange, wie niemand dein Bild irgendwo postet. Wenn Ursula dein Bild nimmt und auf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14 /\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 1817,
+          "like_count": 4009,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 285
+        },
+        "url": "",
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-24T23:08:11.000Z",
+        "description": "Your cute little bouncy Slime VTuber\nLet's bounce! https://t.co/TtbDD89caN\nArt: #Akumart / NSFW: #acooma / Clips: #AkumaClip",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 80,
+                "tag": "Akumart"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "tag": "acooma"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "tag": "AkumaClip"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "store.steampowered.com/app/4483990/Me…",
+                "end": 74,
+                "expanded_url": "https://store.steampowered.com/app/4483990/Megaris/",
+                "start": 51,
+                "url": "https://t.co/TtbDD89caN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/AkumaNoTsubasa",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/AkumaNoTsubasa",
+                "start": 0,
+                "url": "https://t.co/LGeu2RFqrW"
+              }
+            ]
+          }
+        },
+        "id": "4268263041",
+        "location": "Germany",
+        "name": "Akuma No Tsubasa",
+        "pinned_tweet_id": "2054859575099056347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021891027398012928/1-9HjLMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 705,
+          "like_count": 39950,
+          "listed_count": 12,
+          "media_count": 3136,
+          "tweet_count": 24505
+        },
+        "url": "https://t.co/LGeu2RFqrW",
+        "username": "totmacherx",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-19T22:02:24.000Z",
+        "description": "⚡️25⚡️ SUPERHELD 🇩🇪#Vtuber| Kontakt: meynhero@gmail.com \n💻 Socials: https://t.co/T4TEyZSA3r",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 19,
+                "tag": "Vtuber"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "meynhero.carrd.co",
+                "end": 91,
+                "expanded_url": "https://meynhero.carrd.co",
+                "start": 68,
+                "url": "https://t.co/T4TEyZSA3r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/meynhero",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/meynhero",
+                "start": 0,
+                "url": "https://t.co/tLfElv2p5e"
+              }
+            ]
+          }
+        },
+        "id": "1913714736258031616",
+        "location": "Deutschland",
+        "name": "Meyn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916490987712462848/03DUrWAK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 319,
+          "like_count": 3063,
+          "listed_count": 5,
+          "media_count": 281,
+          "tweet_count": 1156
+        },
+        "url": "https://t.co/tLfElv2p5e",
+        "username": "meynhero",
+        "verified": false
+      }
+    ]
+  }
+}

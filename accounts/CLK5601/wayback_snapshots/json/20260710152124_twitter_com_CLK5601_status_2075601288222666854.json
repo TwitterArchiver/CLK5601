@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2075451263475654721",
+    "created_at": "2026-07-10T15:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T16:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075601288222666854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2055911737208315904",
+          "start": 0,
+          "username": "omgnowihasfish"
+        },
+        {
+          "end": 31,
+          "id": "2026547944418312192",
+          "start": 16,
+          "username": "skibidi_dicker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075601288222666854",
+    "in_reply_to_user_id": "2055911737208315904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075451263475654721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omgnowihasfish @skibidi_dicker 前列腺？🫪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2075451263475654721",
+        "created_at": "2026-07-10T15:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075601288222666854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2055911737208315904",
+              "start": 0,
+              "username": "omgnowihasfish"
+            },
+            {
+              "end": 31,
+              "id": "2026547944418312192",
+              "start": 16,
+              "username": "skibidi_dicker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075601288222666854",
+        "in_reply_to_user_id": "2055911737208315904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075451263475654721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omgnowihasfish @skibidi_dicker 前列腺？🫪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055911737208315904",
+        "conversation_id": "2075451263475654721",
+        "created_at": "2026-07-10T05:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075451263475654721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075451263475654721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7842,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "前列腺炎並且雙低的女性會和xyn一樣hrt嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14 /\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 1875,
+          "like_count": 4645,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 302
+        },
+        "url": "",
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T07:23:39.000Z",
+        "description": "座標台灣台中市 \n2009/12/24 抑鬱 精分 雙向 多重人格 自閉 adhd 雷霆亞硝蒜末美食家 我的小帳號:  @skibidi_dicker  我的幾把: @enju_1228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 60,
+                "username": "skibidi_dicker"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "enju_1228"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=Gnc7ktA0TsADpGRe",
+                "start": 0,
+                "url": "https://t.co/FZ1JCwuotB"
+              }
+            ]
+          }
+        },
+        "id": "2055911737208315904",
+        "location": "台中市, 台灣",
+        "name": "黃瓜🍥",
+        "pinned_tweet_id": "2069487129462501434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055912532402216960/jnl7BbH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 659,
+          "like_count": 3854,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 986
+        },
+        "url": "https://t.co/FZ1JCwuotB",
+        "username": "omgnowihasfish",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T06:41:04.000Z",
+        "description": "@omgnowihasfish 的小帳號 我會在這裡分享我的日常🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "omgnowihasfish"
+              }
+            ]
+          }
+        },
+        "id": "2026547944418312192",
+        "name": "黃瓜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051489095621525504/wwJd-zjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 274,
+          "like_count": 1118,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 305
+        },
+        "url": "",
+        "username": "skibidi_dicker",
+        "verified": true
+      }
+    ]
+  }
+}

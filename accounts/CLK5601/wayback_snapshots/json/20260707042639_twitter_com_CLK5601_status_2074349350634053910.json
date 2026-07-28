@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2074349350634053910",
+    "created_at": "2026-07-07T04:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074349350634053910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "830659836924694528",
+          "start": 3,
+          "username": "cccci1q7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074349350634053910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070552765831450845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cccci1q7: 你们还记得暮暮姐吗 就是千妖笙 @qianyaosheng 她好像是严重心衰 车祸幸存者 时日无多 现在已经找不到她了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2074349350634053910",
+        "created_at": "2026-07-07T04:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074349350634053910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "830659836924694528",
+              "start": 3,
+              "username": "cccci1q7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074349350634053910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070552765831450845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cccci1q7: 你们还记得暮暮姐吗 就是千妖笙 @qianyaosheng 她好像是严重心衰 车祸幸存者 时日无多 现在已经找不到她了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830659836924694528",
+        "conversation_id": "2070552765831450845",
+        "created_at": "2026-06-26T17:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070552765831450845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/04177_realname…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/04177_realname/status/1769408140205007325",
+              "start": 62,
+              "url": "https://t.co/NnFYruzxJ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070552765831450845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4110,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1769408140205007325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们还记得暮暮姐吗 就是千妖笙 @qianyaosheng 她好像是严重心衰 车祸幸存者 时日无多 现在已经找不到她了。。 https://t.co/NnFYruzxJ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14 /\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 1872,
+          "like_count": 4530,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 298
+        },
+        "url": "",
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-12T06:08:32.000Z",
+        "description": "活在2017年的人",
+        "id": "830659836924694528",
+        "name": "白巧曲奇🏳️‍⚧️",
+        "pinned_tweet_id": "2052774956845723871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073013034944172032/1aiLv2s0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 1210,
+          "like_count": 13851,
+          "listed_count": 10,
+          "media_count": 60,
+          "tweet_count": 1529
+        },
+        "url": "",
+        "username": "cccci1q7",
+        "verified": true
+      }
+    ]
+  }
+}

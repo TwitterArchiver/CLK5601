@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064676773607112704"
+      ]
+    },
+    "author_id": "1838527847570509826",
+    "conversation_id": "2064670165695136191",
+    "created_at": "2026-06-10T11:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T12:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064676776094425561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2062597375286513664",
+          "start": 0,
+          "username": "Rei2020520"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Are you shadowbanned on Twitter?",
+          "display_url": "shadowban.yuzurisa.com",
+          "end": 35,
+          "expanded_url": "https://shadowban.yuzurisa.com",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2062407014811312128/LoSOoHqo?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2062407014811312128/LoSOoHqo?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 12,
+          "status": 200,
+          "title": "Twitter Shadowban Test",
+          "unwound_url": "https://shadowban.yuzurisa.com",
+          "url": "https://t.co/zCgU6e8lDN"
+        },
+        {
+          "display_url": "pic.x.com/zyfq57VYiL",
+          "end": 87,
+          "expanded_url": "https://x.com/CLK5601/status/2064676776094425561/photo/1",
+          "media_key": "3_2064676773607112704",
+          "start": 64,
+          "url": "https://t.co/zyfq57VYiL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064676776094425561",
+    "in_reply_to_user_id": "2062597375286513664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064670165695136191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rei2020520 https://t.co/zCgU6e8lDN\n这个网址可以查的，目前看来应该是被ghost ban了 https://t.co/zyfq57VYiL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1262,
+        "media_key": "3_2064676773607112704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKc0liLaAAAoFNM.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064676773607112704"
+          ]
+        },
+        "author_id": "1838527847570509826",
+        "conversation_id": "2064670165695136191",
+        "created_at": "2026-06-10T11:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064676776094425561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2062597375286513664",
+              "start": 0,
+              "username": "Rei2020520"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Are you shadowbanned on Twitter?",
+              "display_url": "shadowban.yuzurisa.com",
+              "end": 35,
+              "expanded_url": "https://shadowban.yuzurisa.com",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2062407014811312128/LoSOoHqo?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2062407014811312128/LoSOoHqo?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 12,
+              "status": 200,
+              "title": "Twitter Shadowban Test",
+              "unwound_url": "https://shadowban.yuzurisa.com",
+              "url": "https://t.co/zCgU6e8lDN"
+            },
+            {
+              "display_url": "pic.x.com/zyfq57VYiL",
+              "end": 87,
+              "expanded_url": "https://x.com/CLK5601/status/2064676776094425561/photo/1",
+              "media_key": "3_2064676773607112704",
+              "start": 64,
+              "url": "https://t.co/zyfq57VYiL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064676776094425561",
+        "in_reply_to_user_id": "2062597375286513664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064670165695136191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rei2020520 https://t.co/zCgU6e8lDN\n这个网址可以查的，目前看来应该是被ghost ban了 https://t.co/zyfq57VYiL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062597375286513664",
+        "conversation_id": "2064670165695136191",
+        "created_at": "2026-06-10T11:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064670165695136191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064670165695136191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家说阿零的消息被屏蔽了，但是阿零自己都不知道的说，大家帮忙看看呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 1423,
+          "like_count": 2125,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 196
+        },
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T18:10:43.000Z",
+        "description": "账号重生×2—重抑—有认知障碍—体弱多病—MTF🏳️‍⚧️纯跨出—💊🈹—只想做好自己\n\n163cm 45kg          人美心善",
+        "id": "2062597375286513664",
+        "location": "0km",
+        "name": "零Rei🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2064445501928558752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063499544042811392/q9w3BxTT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 116,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 139
+        },
+        "username": "Rei2020520",
+        "verified": false
+      }
+    ]
+  }
+}

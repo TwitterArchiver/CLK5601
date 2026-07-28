@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2063273117645226344",
+    "created_at": "2026-06-06T14:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063274282873233849"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063274282873233849",
+    "in_reply_to_user_id": "1838527847570509826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063273117645226344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好像某些群体就不该在网上发声，这个“不好”，那个“教唆”\n有的社交平台本来就有各种圈子，圈子也有重叠的部分\n但是主动跑到重叠的部分去攻击人，还是有点畏惧\n唉，抱歉，可能有点过于激动了，觉得我矫情的直接把我b了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2063273117645226344",
+        "created_at": "2026-06-06T14:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063274282873233849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063274282873233849",
+        "in_reply_to_user_id": "1838527847570509826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063273117645226344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像某些群体就不该在网上发声，这个“不好”，那个“教唆”\n有的社交平台本来就有各种圈子，圈子也有重叠的部分\n但是主动跑到重叠的部分去攻击人，还是有点畏惧\n唉，抱歉，可能有点过于激动了，觉得我矫情的直接把我b了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2063273117645226344",
+        "created_at": "2026-06-06T14:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063273117645226344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063273117645226344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“情绪会传染，所以不要展示”\n“憋着会出问题，适当发泄”\n“xx行为影响不好，该账号禁言”\n不知哪个更好，我倾向于中间那个\n最后那种观点的人，让我联想到“lgbt影响不好，不宣传”这种，ptsd了\n有的人明明自己设置屏蔽词这种就行，结果还莫名其妙人身攻击，说着“社群”“好处”，这跟“一口一个跨出”有什么区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 1374,
+          "like_count": 1773,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 167
+        },
+        "username": "CLK5601",
+        "verified": false
+      }
+    ]
+  }
+}

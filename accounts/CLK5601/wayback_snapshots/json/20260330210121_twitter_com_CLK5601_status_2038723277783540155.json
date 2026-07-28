@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2038723277783540155",
+    "created_at": "2026-03-30T21:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T22:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038723277783540155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1797976458016825344",
+          "start": 3,
+          "username": "grok8888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038723277783540155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038143493596688661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @grok8888: 为什么互联网上总说加班猝死，却很少听说工地工人加班猝死？\n难道工地不累？\n\n你看过聊斋吗？\n里面的女鬼女妖，爱的都是书生。从来不爱樵夫、山民、士兵。\n为什么？\n因为书都是书生写的。\n\n谁有能力发声，谁就会被听见。\n沉默者，不是不存在，只是没有人记录他…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2038723277783540155",
+        "created_at": "2026-03-30T21:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T22:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038723277783540155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797976458016825344",
+              "start": 3,
+              "username": "grok8888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038723277783540155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038143493596688661",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @grok8888: 为什么互联网上总说加班猝死，却很少听说工地工人加班猝死？\n难道工地不累？\n\n你看过聊斋吗？\n里面的女鬼女妖，爱的都是书生。从来不爱樵夫、山民、士兵。\n为什么？\n因为书都是书生写的。\n\n谁有能力发声，谁就会被听见。\n沉默者，不是不存在，只是没有人记录他…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797976458016825344",
+        "conversation_id": "2038143493596688661",
+        "created_at": "2026-03-29T06:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T07:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038143493596688661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038143493596688661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 131895,
+          "like_count": 1570,
+          "quote_count": 11,
+          "reply_count": 151,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "为什么互联网上总说加班猝死，却很少听说工地工人加班猝死？\n难道工地不累？\n\n你看过聊斋吗？\n里面的女鬼女妖，爱的都是书生。从来不爱樵夫、山民、士兵。\n为什么？\n因为书都是书生写的。\n\n谁有能力发声，谁就会被听见。\n沉默者，不是不存在，只是没有人记录他们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "人生是场徒劳，死亡才是解脱/不定时emo/神秘友跨人/懒王/hrt2025.9.14",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "时织Tokiori",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 154,
+          "like_count": 301,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 31
+        },
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T13:00:08.000Z",
+        "description": "好奇世界的一切： 奇闻 · AI · 流量 · 社会 · 商业 · 趋势 Curious about how things really work",
+        "id": "1797976458016825344",
+        "location": "Bangkok, Thailand",
+        "name": "Sophie Su| 奇闻洞见",
+        "pinned_tweet_id": "2034963055143264595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966442704516325376/dUfRsZwa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6235,
+          "following_count": 5215,
+          "like_count": 20519,
+          "listed_count": 19,
+          "media_count": 206,
+          "tweet_count": 6396
+        },
+        "username": "grok8888",
+        "verified": true
+      }
+    ]
+  }
+}

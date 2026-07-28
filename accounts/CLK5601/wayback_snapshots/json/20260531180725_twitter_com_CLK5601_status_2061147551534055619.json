@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2061147551534055619",
+    "created_at": "2026-05-31T18:07:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T19:07:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061147551534055619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1573704119516176384",
+          "start": 3,
+          "username": "SnozakiSakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/IEGvmVG",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/IEGvmVG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061147551534055619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061108382673875274",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnozakiSakura: 奉劝大家一句，如果你的号之前曾经开过蓝，后面断掉了，那就不要想着再用这个号加入revenue sharing了，因为需要人工审核，但是垃圾团队经常很久都不处理，直接去运营一个没开过蓝标的号比较好。… https://t.co/IEGvmVG…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1882,
+        "media_key": "3_2061107617624428544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqGdUBbEAA2Lxt.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1932,
+        "media_key": "3_2061107617670533120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqGdUMakAAI-3i.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2061147551534055619",
+        "created_at": "2026-05-31T18:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T19:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061147551534055619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1573704119516176384",
+              "start": 3,
+              "username": "SnozakiSakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/IEGvmVG",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/IEGvmVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061147551534055619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061108382673875274",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnozakiSakura: 奉劝大家一句，如果你的号之前曾经开过蓝，后面断掉了，那就不要想着再用这个号加入revenue sharing了，因为需要人工审核，但是垃圾团队经常很久都不处理，直接去运营一个没开过蓝标的号比较好。… https://t.co/IEGvmVG…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061107617624428544",
+            "3_2061107617670533120"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2061108382673875274",
+        "created_at": "2026-05-31T15:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:28:47.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061107632870773046",
+          "2061108382673875274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IEGvmVGwyn",
+              "end": 122,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2061108382673875274/photo/1",
+              "media_key": "3_2061107617624428544",
+              "start": 99,
+              "url": "https://t.co/IEGvmVGwyn"
+            },
+            {
+              "display_url": "pic.x.com/IEGvmVGwyn",
+              "end": 122,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2061108382673875274/photo/1",
+              "media_key": "3_2061107617670533120",
+              "start": 99,
+              "url": "https://t.co/IEGvmVGwyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061108382673875274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "奉劝大家一句，如果你的号之前曾经开过蓝，后面断掉了，那就不要想着再用这个号加入revenue sharing了，因为需要人工审核，但是垃圾团队经常很久都不处理，直接去运营一个没开过蓝标的号比较好。\n我怀疑这就是x官方故意卡着老用户的，然后再强迫活跃用户保持premium订阅，也不要听ai瞎说续上蓝标就能自动恢复，这根本不存在的\n我提交申诉已经7天了，至今仍未处理，没有回信"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1764,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "奉劝大家一句，如果你的号之前曾经开过蓝，后面断掉了，那就不要想着再用这个号加入revenue sharing了，因为需要人工审核，但是垃圾团队经常很久都不处理，直接去运营一个没开过蓝标的号比较好。 https://t.co/IEGvmVGwyn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜/不定时emo/神秘友跨人/懒王/hrt2025.9.14",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 1071,
+          "like_count": 1072,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 72
+        },
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "🌸摆烂博主🍭| 好看的照片都在“亮点”里 | 蓝v互关看到必回",
+        "id": "1573704119516176384",
+        "location": "🚪98 发课表 是男娘",
+        "name": "草莓泡芙🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005637712188194816/7t5VZ4y-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94985,
+          "following_count": 959,
+          "like_count": 5748,
+          "listed_count": 210,
+          "media_count": 137,
+          "tweet_count": 1944
+        },
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

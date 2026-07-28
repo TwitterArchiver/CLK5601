@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2036602104304013648",
+    "created_at": "2026-03-25T00:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T01:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036602104304013648"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036602104304013648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近好多💊娘自杀\n好像鞭炮后的寂静和微风能带走很多东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2036602104304013648",
+        "created_at": "2026-03-25T00:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T01:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036602104304013648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036602104304013648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近好多💊娘自杀\n好像鞭炮后的寂静和微风能带走很多东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "人生是场徒劳，死亡才是解脱/不定时emo/神秘友跨人/懒王/hrt2025.9.14",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "时织Tokiori",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 141,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "username": "CLK5601",
+        "verified": false
+      }
+    ]
+  }
+}

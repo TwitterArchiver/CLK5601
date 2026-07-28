@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2015146117391163409",
+    "created_at": "2026-01-24T19:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T20:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015146117391163409"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015146117391163409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在小证到手，就差临门一脚\n我妈的想法是只要医生确诊，该吃药吃药\n可我姐又窜出来说“希望先通过心理治疗看能不能矫正”\n服了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2015146117391163409",
+        "created_at": "2026-01-24T19:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T20:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015146117391163409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015146117391163409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在小证到手，就差临门一脚\n我妈的想法是只要医生确诊，该吃药吃药\n可我姐又窜出来说“希望先通过心理治疗看能不能矫正”\n服了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "description": "人生是场徒劳，死亡才是解脱/不定时emo/神秘友跨人/懒王",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "时织Tokiori",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 122,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "CLK5601",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2080739029662982591",
+    "created_at": "2026-07-25T00:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T01:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080811962255184258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1650498704812437504",
+          "start": 0,
+          "username": "xxjuzi091123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080811962255184258",
+    "in_reply_to_user_id": "1650498704812437504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080739029662982591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxjuzi091123 唉，希望可以再见到你😥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2080739029662982591",
+        "created_at": "2026-07-25T00:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T01:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080811962255184258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1650498704812437504",
+              "start": 0,
+              "username": "xxjuzi091123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080811962255184258",
+        "in_reply_to_user_id": "1650498704812437504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080739029662982591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxjuzi091123 唉，希望可以再见到你😥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650498704812437504",
+        "conversation_id": "2080739029662982591",
+        "created_at": "2026-07-24T19:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T20:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080739029662982591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080739029662982591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我交不到任何朋友 我不知道是自己的哪一点让我每一个认识了很久的朋友和新认识的朋友都会选择疏远和远离我☺️也许我就是个巨婴 需要别人时时刻刻的关心 准备注销掉这个账号了 在我结束生命的时候 认真思考生命的意义然后决定是否结束掉这段奇怪的人生 大家再见🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14 /\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 1921,
+          "like_count": 5256,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T13:55:57.000Z",
+        "description": "2009.11.23 hrt2024.2.25 也许是家长党 坐标河北 大部分时间都在玩apex 也许是树洞 可以私信给我🥰 会互fo 祝你拥有一个美好的一天 🚪6.6 我只是被顺直男骚扰烦了 嘻嘻 同类快来找我扩列",
+        "id": "1650498704812437504",
+        "location": "河北",
+        "name": "橘子ay🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836909720642125825/zOdhE63W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 790,
+          "like_count": 243,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 1260
+        },
+        "url": "",
+        "username": "xxjuzi091123",
+        "verified": false
+      }
+    ]
+  }
+}

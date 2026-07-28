@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2057832188377477215",
+    "created_at": "2026-05-24T03:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T04:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058388693728285096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894507532980555777",
+          "start": 0,
+          "username": "zhuy618360"
+        },
+        {
+          "end": 27,
+          "id": "1605093608910381056",
+          "start": 12,
+          "username": "suekageseikiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058388693728285096",
+    "in_reply_to_user_id": "1894507532980555777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058365684774817915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhuy618360 @suekageseikiyo 再加上现在经济不稳定，压力大，导致大家都很浮躁，懒得去了解\n所以直接贴标签，盖帽子，开骂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2057832188377477215",
+        "created_at": "2026-05-24T03:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T04:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058388693728285096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894507532980555777",
+              "start": 0,
+              "username": "zhuy618360"
+            },
+            {
+              "end": 27,
+              "id": "1605093608910381056",
+              "start": 12,
+              "username": "suekageseikiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058388693728285096",
+        "in_reply_to_user_id": "1894507532980555777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058365684774817915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhuy618360 @suekageseikiyo 再加上现在经济不稳定，压力大，导致大家都很浮躁，懒得去了解\n所以直接贴标签，盖帽子，开骂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894507532980555777",
+        "conversation_id": "2057832188377477215",
+        "created_at": "2026-05-24T01:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058365684774817915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1838527847570509826",
+              "start": 0,
+              "username": "CLK5601"
+            },
+            {
+              "end": 24,
+              "id": "1605093608910381056",
+              "start": 9,
+              "username": "suekageseikiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058365684774817915",
+        "in_reply_to_user_id": "1838527847570509826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058101433199952055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CLK5601 @suekageseikiyo 所以说吃药到底有什么负面影响，圈外人不知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜/不定时emo/神秘友跨人/懒王/hrt2025.9.14",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 818,
+          "like_count": 980,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 67
+        },
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T21:59:37.000Z",
+        "description": "🤔️",
+        "id": "1894507532980555777",
+        "name": "LastNeon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044643100715581440/XzEtAZ6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 29,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 37
+        },
+        "username": "zhuy618360",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T06:51:57.000Z",
+        "description": "",
+        "id": "1605093608910381056",
+        "name": "末々🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026309621338820609/hO5ufogg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 534,
+          "like_count": 4737,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 458
+        },
+        "username": "suekageseikiyo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2063189234966822924",
+    "created_at": "2026-06-06T09:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063193099267146034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767040816986656768",
+          "start": 0,
+          "username": "MeviuslX_Xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063193099267146034",
+    "in_reply_to_user_id": "1767040816986656768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063189234966822924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeviuslX_Xl 老⏰家庭经典了，唉😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2063189234966822924",
+        "created_at": "2026-06-06T09:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063193099267146034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767040816986656768",
+              "start": 0,
+              "username": "MeviuslX_Xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063193099267146034",
+        "in_reply_to_user_id": "1767040816986656768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063189234966822924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeviuslX_Xl 老⏰家庭经典了，唉😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767040816986656768",
+        "conversation_id": "2063189234966822924",
+        "created_at": "2026-06-06T09:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063189234966822924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063189234966822924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小梅很无奈啊\n他们一边说年龄比我大见识比我广，还一天天说我没有包容心，说我叛逆说我让他们伤心说我不孝\n😑\n我说就干脆把我当不婚主义者别管我，他们说这个世界就没有不结婚生孩子的，我一天天做什么事情都优先考虑他们，我理解他们的难处理解他们的辛苦\n我到底是哪里做的不好了？\n结果还要被指责"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 1366,
+          "like_count": 1736,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 161
+        },
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T04:12:28.000Z",
+        "description": "一只邪恶小魅魔｜可以叫我小梅，或者梅子干也行｜小梅我最爱的酸汤面姐姐大人@wang3289 ｜有点腹黑毒舌，但是很好相处｜在姐姐的帮助下走出了曾经的痛苦，逐渐开朗！！！｜最后……这里有提问箱可以问小梅任何问题哦～⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "wang3289"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meviuslx_xl",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meviuslx_xl",
+                "start": 0,
+                "url": "https://t.co/yK6TFzsZWk"
+              }
+            ]
+          }
+        },
+        "id": "1767040816986656768",
+        "location": "魔王城",
+        "name": "ℳℯ𝓋𝒾𝓊𝓈",
+        "pinned_tweet_id": "2009992139284066816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957098651299581952/LUPlmVG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12673,
+          "following_count": 1038,
+          "like_count": 18506,
+          "listed_count": 26,
+          "media_count": 1057,
+          "tweet_count": 8669
+        },
+        "url": "https://t.co/yK6TFzsZWk",
+        "username": "MeviuslX_Xl",
+        "verified": false
+      }
+    ]
+  }
+}

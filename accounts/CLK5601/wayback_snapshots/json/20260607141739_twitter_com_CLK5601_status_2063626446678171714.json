@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2063347975875875104",
+    "created_at": "2026-06-07T14:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063626446678171714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1980651637673951232",
+          "start": 0,
+          "username": "NeuroSaki987"
+        },
+        {
+          "end": 21,
+          "id": "1959893383633358848",
+          "start": 14,
+          "username": "Cbscfe"
+        },
+        {
+          "end": 29,
+          "id": "2063266311254552576",
+          "start": 22,
+          "username": "17nuun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063626446678171714",
+    "in_reply_to_user_id": "1980651637673951232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063622026292765099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeuroSaki987 @Cbscfe @17nuun 头像正确👍🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2063347975875875104",
+        "created_at": "2026-06-07T14:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063626446678171714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1980651637673951232",
+              "start": 0,
+              "username": "NeuroSaki987"
+            },
+            {
+              "end": 21,
+              "id": "1959893383633358848",
+              "start": 14,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 29,
+              "id": "2063266311254552576",
+              "start": 22,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063626446678171714",
+        "in_reply_to_user_id": "1980651637673951232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063622026292765099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeuroSaki987 @Cbscfe @17nuun 头像正确👍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980651637673951232",
+        "conversation_id": "2063347975875875104",
+        "created_at": "2026-06-07T14:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063622026292765099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 16,
+              "id": "1838527847570509826",
+              "start": 8,
+              "username": "CLK5601"
+            },
+            {
+              "end": 24,
+              "id": "2063266311254552576",
+              "start": 17,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063622026292765099",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063487121562980647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @CLK5601 @17nuun 我将用最直白，最直接，最不绕弯子，最客观，最正确，最容易理解，最不卖关子的方式告诉你：被你发现了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 1388,
+          "like_count": 1928,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 180
+        },
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T15:06:35.000Z",
+        "description": "mtf?/x｜birth 2008 ｜ INTP ｜HRT since 2025 ｜ 家暴党💔｜ https://t.co/LjGshms4aj｜好多管道符哎｜深度学习与AI开发 ｜是只软软的小猫呢，抱走我喵～",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/NeuroSaki987",
+                "end": 72,
+                "expanded_url": "https://github.com/NeuroSaki987",
+                "start": 49,
+                "url": "https://t.co/LjGshms4aj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "…hcnalmzaclmwrrj3nrt4rq2qdepaead.onion",
+                "end": 23,
+                "expanded_url": "http://neuro5w22bxsgajxyykcsgdtjhcnalmzaclmwrrj3nrt4rq2qdepaead.onion/",
+                "start": 0,
+                "url": "https://t.co/UVlOfR8kuw"
+              }
+            ]
+          }
+        },
+        "id": "1980651637673951232",
+        "location": "LiuyingWeb Inc. Shanghai",
+        "name": "Neuro Saki 🍥",
+        "pinned_tweet_id": "2054120857275171110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009413788530036737/yqokTjpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 353,
+          "like_count": 2127,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 892
+        },
+        "url": "https://t.co/UVlOfR8kuw",
+        "username": "NeuroSaki987",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 680,
+          "like_count": 24397,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 5987
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 20,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "username": "17nuun",
+        "verified": false
+      }
+    ]
+  }
+}

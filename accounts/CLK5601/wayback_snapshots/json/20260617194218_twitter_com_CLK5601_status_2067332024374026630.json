@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2067274887924949474",
+    "created_at": "2026-06-17T19:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T20:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067332024374026630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1217855766167556096",
+          "start": 0,
+          "username": "SummerTwT9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067332024374026630",
+    "in_reply_to_user_id": "1217855766167556096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067274887924949474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SummerTwT9 生日快乐🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067274876394799105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBvjBSaAAEaH2s.jpg",
+        "width": 1462
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067274876214489088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBvjAnasAAmBCq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2067274887924949474",
+        "created_at": "2026-06-17T19:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067332024374026630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1217855766167556096",
+              "start": 0,
+              "username": "SummerTwT9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067332024374026630",
+        "in_reply_to_user_id": "1217855766167556096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067274887924949474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SummerTwT9 生日快乐🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067274876394799105",
+            "3_2067274876214489088"
+          ]
+        },
+        "author_id": "1217855766167556096",
+        "conversation_id": "2067274887924949474",
+        "created_at": "2026-06-17T15:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067274887924949474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9S6TarOB86",
+              "end": 30,
+              "expanded_url": "https://x.com/SummerTwT9/status/2067274887924949474/photo/1",
+              "media_key": "3_2067274876394799105",
+              "start": 7,
+              "url": "https://t.co/9S6TarOB86"
+            },
+            {
+              "display_url": "pic.x.com/9S6TarOB86",
+              "end": 30,
+              "expanded_url": "https://x.com/SummerTwT9/status/2067274887924949474/photo/1",
+              "media_key": "3_2067274876214489088",
+              "start": 7,
+              "url": "https://t.co/9S6TarOB86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067274887924949474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 327,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "19岁了，， https://t.co/9S6TarOB86"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 1537,
+          "like_count": 2612,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 233
+        },
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-16T17:07:03.000Z",
+        "description": "于风雨之中绽放的蓝蔷薇\n無休止直至死去\n因为你太柔软@Akinoyo_desu\n路的尽头是海的入口@noth1nghere14\n丢失了地图的少年旅行家@q72248442",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "q72248442"
+              }
+            ]
+          }
+        },
+        "id": "1217855766167556096",
+        "location": "地靈殿",
+        "name": "村雨",
+        "pinned_tweet_id": "2043958461323698567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043636900381237248/_ViH72iv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 125,
+          "like_count": 240,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 598
+        },
+        "username": "SummerTwT9",
+        "verified": false
+      }
+    ]
+  }
+}

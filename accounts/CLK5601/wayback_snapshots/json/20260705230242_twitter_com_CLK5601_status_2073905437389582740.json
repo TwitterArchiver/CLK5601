@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2073905437389582740",
+    "created_at": "2026-07-05T23:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T00:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073905437389582740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1812592646289756160",
+          "start": 3,
+          "username": "princesalamwane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073905437389582740",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1554
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073806000063168893",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @princesalamwane: When she started spiraling about how much cleaning she’d have to do before she could even start, that’s when I knew th…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2073905437389582740",
+        "created_at": "2026-07-05T23:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T00:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073905437389582740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1812592646289756160",
+              "start": 3,
+              "username": "princesalamwane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073905437389582740",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1554
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073806000063168893",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @princesalamwane: When she started spiraling about how much cleaning she’d have to do before she could even start, that’s when I knew th…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812592646289756160",
+        "conversation_id": "2073806000063168893",
+        "created_at": "2026-07-05T16:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073806000063168893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/topgyaru/statu…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/topgyaru/status/2073089358689861780",
+              "start": 172,
+              "url": "https://t.co/ruWhugLGoW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073806000063168893",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 862,
+          "impression_count": 120253,
+          "like_count": 15313,
+          "quote_count": 10,
+          "reply_count": 15,
+          "retweet_count": 1554
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073089358689861780",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "When she started spiraling about how much cleaning she’d have to do before she could even start, that’s when I knew the writers really understood the reality of depression https://t.co/ruWhugLGoW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14 /\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 1834,
+          "like_count": 4161,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 292
+        },
+        "url": "",
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T20:59:07.000Z",
+        "description": "M❣️ 🇱🇧",
+        "id": "1812592646289756160",
+        "location": "In my own kingdom ",
+        "name": "𝓟𝓻𝓲𝓷𝓬𝓮𝓼𝓪 🐸",
+        "pinned_tweet_id": "1945539707330252872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870210316472070144/Hm9DeWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9032,
+          "following_count": 2250,
+          "like_count": 63155,
+          "listed_count": 37,
+          "media_count": 4085,
+          "tweet_count": 26057
+        },
+        "url": "",
+        "username": "princesalamwane",
+        "verified": false
+      }
+    ]
+  }
+}

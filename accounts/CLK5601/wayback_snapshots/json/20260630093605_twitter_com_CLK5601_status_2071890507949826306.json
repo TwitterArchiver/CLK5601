@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2071890507949826306",
+    "created_at": "2026-06-30T09:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071890507949826306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1224507668204789761",
+          "start": 3,
+          "username": "WinslowHee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071890507949826306",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071745261647671619",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WinslowHee: 作为Asian我证件性别不想要M也不想改F或者X，我想改成A+"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2071890507949826306",
+        "created_at": "2026-06-30T09:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071890507949826306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224507668204789761",
+              "start": 3,
+              "username": "WinslowHee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071890507949826306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071745261647671619",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WinslowHee: 作为Asian我证件性别不想要M也不想改F或者X，我想改成A+"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224507668204789761",
+        "conversation_id": "2071745261647671619",
+        "created_at": "2026-06-29T23:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T00:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071745261647671619"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071745261647671619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1258,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "作为Asian我证件性别不想要M也不想改F或者X，我想改成A+"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14 /\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 1703,
+          "like_count": 3517,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-04T01:39:22.000Z",
+        "description": "radical anti-anti-antinatalist; Atheistic modal realism.\nOpenAlias: https://t.co/AxpHQwG9Km\n❤️ @NeoTrumeet \n🪼 @VentusUta",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 95,
+                "username": "NeoTrumeet"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "VentusUta"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xmr.winslow.cloud",
+                "end": 91,
+                "expanded_url": "http://xmr.winslow.cloud",
+                "start": 68,
+                "url": "https://t.co/AxpHQwG9Km"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "winsloweric.com",
+                "end": 23,
+                "expanded_url": "https://winsloweric.com",
+                "start": 0,
+                "url": "https://t.co/fF43EcwDPj"
+              }
+            ]
+          }
+        },
+        "id": "1224507668204789761",
+        "location": "Raincouver, British Columbia ",
+        "name": "@winslow@stelpolva.moe",
+        "pinned_tweet_id": "1794299548279693781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611618772758192128/Ln31SnEu_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 1206,
+          "like_count": 48618,
+          "listed_count": 30,
+          "media_count": 385,
+          "tweet_count": 6411
+        },
+        "url": "https://t.co/fF43EcwDPj",
+        "username": "WinslowHee",
+        "verified": false
+      }
+    ]
+  }
+}

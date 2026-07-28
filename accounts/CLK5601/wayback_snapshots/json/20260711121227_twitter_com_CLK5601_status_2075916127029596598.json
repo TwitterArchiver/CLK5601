@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2075895112337707347",
+    "created_at": "2026-07-11T12:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075916127029596598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1708136798667595776",
+          "start": 0,
+          "username": "ql_qw39184"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075916127029596598",
+    "in_reply_to_user_id": "1708136798667595776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075895112337707347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ql_qw39184 生日快乐🎊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075895109451980800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8Pmn3bIAAjoDs.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075895108013314048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8Pmiga0AAVrKT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2075895112337707347",
+        "created_at": "2026-07-11T12:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075916127029596598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1708136798667595776",
+              "start": 0,
+              "username": "ql_qw39184"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075916127029596598",
+        "in_reply_to_user_id": "1708136798667595776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075895112337707347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ql_qw39184 生日快乐🎊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075895109451980800",
+            "3_2075895108013314048"
+          ]
+        },
+        "author_id": "1708136798667595776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075895112337707347",
+        "created_at": "2026-07-11T10:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075895112337707347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YLCAgMCKvK",
+              "end": 45,
+              "expanded_url": "https://x.com/ql_qw39184/status/2075895112337707347/photo/1",
+              "media_key": "3_2075895109451980800",
+              "start": 22,
+              "url": "https://t.co/YLCAgMCKvK"
+            },
+            {
+              "display_url": "pic.x.com/YLCAgMCKvK",
+              "end": 45,
+              "expanded_url": "https://x.com/ql_qw39184/status/2075895112337707347/photo/1",
+              "media_key": "3_2075895108013314048",
+              "start": 22,
+              "url": "https://t.co/YLCAgMCKvK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075895112337707347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 57,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那就先祝自己生日快乐吧😋（虽然晚一天才过） https://t.co/YLCAgMCKvK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14 /\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 1890,
+          "like_count": 4756,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 308
+        },
+        "url": "",
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-30T15:08:54.000Z",
+        "description": "可以叫我雾雾！！！175cm62kg/无糖/喜欢打打羽毛球/fps类游戏打的也比较多一点/没啥建模/声音算是还说的过去/0907",
+        "id": "1708136798667595776",
+        "location": "当然是在你怀里啦~",
+        "name": "mist",
+        "pinned_tweet_id": "2075045287077507242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070947944585707520/8k-1smyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 207,
+          "like_count": 1083,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 237
+        },
+        "url": "",
+        "username": "ql_qw39184",
+        "verified": false
+      }
+    ]
+  }
+}

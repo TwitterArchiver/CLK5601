@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2060040161250144336",
+    "created_at": "2026-05-29T04:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060221149255290964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1482971074883366912",
+          "start": 0,
+          "username": "ChrysalisQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060221149255290964",
+    "in_reply_to_user_id": "1482971074883366912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060040161250144336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChrysalisQWQ 恭喜🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 940,
+        "media_key": "3_2060039592909352961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJa7GF6aMAEzcit.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2060040161250144336",
+        "created_at": "2026-05-29T04:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060221149255290964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1482971074883366912",
+              "start": 0,
+              "username": "ChrysalisQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060221149255290964",
+        "in_reply_to_user_id": "1482971074883366912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060040161250144336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChrysalisQWQ 恭喜🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060039592909352961"
+          ]
+        },
+        "author_id": "1482971074883366912",
+        "conversation_id": "2060040161250144336",
+        "created_at": "2026-05-28T16:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060040161250144336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dk6r50nf0N",
+              "end": 165,
+              "expanded_url": "https://x.com/ChrysalisQWQ/status/2060040161250144336/photo/1",
+              "media_key": "3_2060039592909352961",
+              "start": 142,
+              "url": "https://t.co/Dk6r50nf0N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060040161250144336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 6498,
+          "like_count": 149,
+          "quote_count": 1,
+          "reply_count": 50,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "还有十几天就要手术啦，一路颠颠簸簸的走到现在真的不容易，很幸运自己有了开明的家人，人生短短几十年，自己开心就好，没必要在乎别人的眼光！\n也谢谢陪了我整整三年的他❤️我们一起走过好与不好，但最后依然在一起，陪我迎来最重要的一步。谢谢你一直都在\n接下来就要迎接全新的、真正属于我的人生！ https://t.co/Dk6r50nf0N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜/不定时emo/神秘友跨人/懒王/hrt2025.9.14",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 989,
+          "like_count": 1050,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 70
+        },
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-17T07:00:43.000Z",
+        "description": "是个不可爱的孩子",
+        "id": "1482971074883366912",
+        "location": "China",
+        "name": "komi",
+        "pinned_tweet_id": "1814563906570051652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935808293512818688/yjfyVlvQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4931,
+          "following_count": 625,
+          "like_count": 4295,
+          "listed_count": 12,
+          "media_count": 427,
+          "tweet_count": 3079
+        },
+        "username": "ChrysalisQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

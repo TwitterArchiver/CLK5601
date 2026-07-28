@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2062856926787256429",
+    "created_at": "2026-06-05T12:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062871703257276823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1661262174680154112",
+          "start": 0,
+          "username": "GawrPinkcat"
+        },
+        {
+          "end": 28,
+          "id": "1877473083063201792",
+          "start": 13,
+          "username": "dorothy1614926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062871703257276823",
+    "in_reply_to_user_id": "1661262174680154112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062871532050039276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GawrPinkcat @dorothy1614926 好奇你这个数据怎么来的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2062856926787256429",
+        "created_at": "2026-06-05T12:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062871703257276823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1661262174680154112",
+              "start": 0,
+              "username": "GawrPinkcat"
+            },
+            {
+              "end": 28,
+              "id": "1877473083063201792",
+              "start": 13,
+              "username": "dorothy1614926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062871703257276823",
+        "in_reply_to_user_id": "1661262174680154112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062871532050039276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GawrPinkcat @dorothy1614926 好奇你这个数据怎么来的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661262174680154112",
+        "conversation_id": "2062856926787256429",
+        "created_at": "2026-06-05T12:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062871532050039276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1838527847570509826",
+              "start": 0,
+              "username": "CLK5601"
+            },
+            {
+              "end": 24,
+              "id": "1877473083063201792",
+              "start": 9,
+              "username": "dorothy1614926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062871532050039276",
+        "in_reply_to_user_id": "1838527847570509826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062871074715656266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CLK5601 @dorothy1614926 先入为主来了，就给你举个杀哥的例子，杀哥被网暴之后光速道歉协商，现在风评不是已经有点好转了吗，50%的人觉得在洗白至少比100%的人觉得恶心好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 1337,
+          "like_count": 1657,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 164
+        },
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T06:45:49.000Z",
+        "description": "可爱的事物会治愈心情w",
+        "id": "1661262174680154112",
+        "location": "猫猫俱乐部",
+        "name": "粉粉玛奇朵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853678166310834177/Tt_zNj7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 51,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 82
+        },
+        "username": "GawrPinkcat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T21:50:55.000Z",
+        "description": "🌸可愛のこいし、閉じた恋の瞳、ただ無邪気な小天使の文椛ちゃんなのににゃ～🌸｜东方众｜磕觉恋｜精神状态良好，超温柔～｜无证含🍥｜互fo｜最最最最可爱的妹妹&恋人❤️@maxC47884317783｜世另我？@wenhuamengyue｜可爱的小鲨鲨@TixItem4527｜可爱猫猫叶～@LeavesMao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "maxC47884317783"
+              },
+              {
+                "end": 116,
+                "start": 102,
+                "username": "wenhuamengyue"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "TixItem4527"
+              },
+              {
+                "end": 152,
+                "start": 142,
+                "username": "LeavesMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dorothy16149261",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dorothy16149261",
+                "start": 0,
+                "url": "https://t.co/apd2CBfCuO"
+              }
+            ]
+          }
+        },
+        "id": "1877473083063201792",
+        "location": "看看你身后喵",
+        "name": "文椛🌸 恋🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058475297205604352/Ezx8PWCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 666,
+          "like_count": 7254,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1820
+        },
+        "url": "https://t.co/apd2CBfCuO",
+        "username": "dorothy1614926",
+        "verified": false
+      }
+    ]
+  }
+}
