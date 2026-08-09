@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2085265752295432508",
+    "created_at": "2026-08-06T07:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T08:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085265752295432508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1913535505230442497",
+          "start": 3,
+          "username": "3638349600Ogas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085265752295432508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085071578573025462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3638349600Ogas: 救救我...家长说要关两三个月。鹊大概会在一个星期多左右跑。鹊写了简历但是一部分材料需要等同学下周给我然后上传还要等电脑大概一两个星期。只要活下去就可以了。可能在南京或者无锡，会有人救鹊吗。有工作能力去便利店或者补货都可以 暂时鹊还有30…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2085265752295432508",
+        "created_at": "2026-08-06T07:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085265752295432508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1913535505230442497",
+              "start": 3,
+              "username": "3638349600Ogas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085265752295432508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085071578573025462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3638349600Ogas: 救救我...家长说要关两三个月。鹊大概会在一个星期多左右跑。鹊写了简历但是一部分材料需要等同学下周给我然后上传还要等电脑大概一两个星期。只要活下去就可以了。可能在南京或者无锡，会有人救鹊吗。有工作能力去便利店或者补货都可以 暂时鹊还有30…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913535505230442497",
+        "conversation_id": "2085071578573025462",
+        "created_at": "2026-08-05T18:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085071578573025462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085071578573025462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3267,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "救救我...家长说要关两三个月。鹊大概会在一个星期多左右跑。鹊写了简历但是一部分材料需要等同学下周给我然后上传还要等电脑大概一两个星期。只要活下去就可以了。可能在南京或者无锡，会有人救鹊吗。有工作能力去便利店或者补货都可以 暂时鹊还有300元还要还花呗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14 /\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 1927,
+          "like_count": 5792,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 392
+        },
+        "url": "",
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T10:10:19.000Z",
+        "description": "天赋家庭年龄一样不沾的三无木桶饭。战争雷霆空历导弹猴子陆历沙包。喜欢听泠鸢yousa，MyGo和世界情绪的歌。精神状态崩坏警告。喜欢拍拍小猫小鸟，云彩和奇奇怪怪的景色。生化环材四大天坑占三个的休学生。最大愿望是有自己的实验室，以及有同类一起像小千和尤娜一样在这个美丽破碎的世界上旅行…",
+        "id": "1913535505230442497",
+        "location": "Chelyabinsk, Russia",
+        "name": "阿德利鹊🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044584965002903552/3Jb5oEd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 696,
+          "like_count": 1839,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 912
+        },
+        "url": "",
+        "username": "3638349600Ogas",
+        "verified": false
+      }
+    ]
+  }
+}
