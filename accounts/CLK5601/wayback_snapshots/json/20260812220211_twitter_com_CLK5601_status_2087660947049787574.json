@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2087647534424715727",
+    "created_at": "2026-08-12T22:02:11.000Z",
+    "display_text_range": [
+      13,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T23:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087660947049787574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942136939735560192",
+          "start": 0,
+          "username": "picxis63594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087660947049787574",
+    "in_reply_to_user_id": "1942136939735560192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087647534424715727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@picxis63594 唉😮‍💨，再会？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2087647534424715727",
+        "created_at": "2026-08-12T22:02:11.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T23:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087660947049787574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942136939735560192",
+              "start": 0,
+              "username": "picxis63594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087660947049787574",
+        "in_reply_to_user_id": "1942136939735560192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087647534424715727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@picxis63594 唉😮‍💨，再会？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942136939735560192",
+        "conversation_id": "2087647534424715727",
+        "created_at": "2026-08-12T21:08:53.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T22:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087647534424715727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/picxis63594/st…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/picxis63594/status/2087628441806160188",
+              "start": 63,
+              "url": "https://t.co/6gfB7QxyPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087647534424715727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087628441806160188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这下不是失去了很多那么简单了\n我什么都没有了\n再见大家\n中午十二点准时注销推特账号\n感谢这段时间在推上和我交往的大家\n··· https://t.co/6gfB7QxyPy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14 /\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）/ “豆腐心”不是“刀子嘴”的理由，伤人就是会伤人",
+        "id": "1838527847570509826",
+        "is_identity_verified": false,
+        "location": "地球",
+        "most_recent_tweet_id": "2087660947049787574",
+        "name": "闭梦网",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1838527847570509826/1783729576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 1933,
+          "like_count": 6071,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 442
+        },
+        "url": "",
+        "username": "CLK5601",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T08:21:59.000Z",
+        "description": "mtx （不可抗力而绝望无糖）| 泛性恋 | 17歳 | 跨物种企鹅（持有南极洲护照）|  INFP |  ADHD  | バカみたいな （一条byd区） | 荒诞主义  |   遭受苦难中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/picxis63594",
+                "end": 23,
+                "expanded_url": "https://x.com/picxis63594",
+                "start": 0,
+                "url": "https://t.co/kzcniopHcI"
+              }
+            ]
+          }
+        },
+        "id": "1942136939735560192",
+        "is_identity_verified": false,
+        "location": "清醒梦",
+        "most_recent_tweet_id": "2087647534424715727",
+        "name": "さぶどろ🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2062132531491930435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942136939735560192/1786375054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086729958907645952/VN6Q9eKg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 353,
+          "like_count": 470,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 437
+        },
+        "url": "https://t.co/kzcniopHcI",
+        "username": "picxis63594",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2087364928231682237",
+    "created_at": "2026-08-12T02:46:18.000Z",
+    "display_text_range": [
+      13,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T03:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087370059949969817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2038192732028469248",
+          "start": 0,
+          "username": "Akiraoo_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087370059949969817",
+    "in_reply_to_user_id": "2038192732028469248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087364928231682237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akiraoo_xyn 断药会让激素环境不稳定，引起情绪波动\n同时雌二醇下降，使得乳腺发生一定萎缩，脂肪重新转向男性化的分布"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2087364928231682237",
+        "created_at": "2026-08-12T02:46:18.000Z",
+        "display_text_range": [
+          13,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T03:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087370059949969817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038192732028469248",
+              "start": 0,
+              "username": "Akiraoo_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087370059949969817",
+        "in_reply_to_user_id": "2038192732028469248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087364928231682237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiraoo_xyn 断药会让激素环境不稳定，引起情绪波动\n同时雌二醇下降，使得乳腺发生一定萎缩，脂肪重新转向男性化的分布"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038192732028469248",
+        "conversation_id": "2087364928231682237",
+        "created_at": "2026-08-12T02:25:54.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T03:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087364928231682237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087364928231682237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近在考慮斷藥，真的好貴快沒錢了，但是又聽別人說斷藥會有副作用什麼的，搞得我有點猶豫\n有沒有懂的人科普下？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14 /\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）/ “豆腐心”不是“刀子嘴”的理由，伤人就是会伤人",
+        "id": "1838527847570509826",
+        "is_identity_verified": false,
+        "location": "地球",
+        "most_recent_tweet_id": "2087370059949969817",
+        "name": "闭梦网",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1838527847570509826/1783729576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 1929,
+          "like_count": 6009,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 426
+        },
+        "url": "",
+        "username": "CLK5601",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-29T09:54:16.000Z",
+        "description": "MtX | 15y🇹🇼 | 无证🍥💊2026.05.09 | 深柜中 | 年龄党 | 生产日期 2011.06.27 | 社恐 | 小透明一个 | 不擅长安慰别人 | 有点笨 | 不自残 | 不od |\n小号 @Akiraoo_qwq\nVRChat：Akiraoo\n唯一玩的音游：Beat Saber",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "Akiraoo_qwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beatleader.com/u/765611994409…",
+                "end": 23,
+                "expanded_url": "https://beatleader.com/u/76561199440901687/ranked?sort=date",
+                "start": 0,
+                "url": "https://t.co/3v7bz53OZq"
+              }
+            ]
+          }
+        },
+        "id": "2038192732028469248",
+        "is_identity_verified": false,
+        "location": "台灣 高雄市",
+        "most_recent_tweet_id": "2087364928231682237",
+        "name": "小旭Akira🍥",
+        "pinned_tweet_id": "2061053759518896159",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038192732028469248/1784901348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080652856206716928/3l6Cu6rL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 169,
+          "like_count": 1156,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 243
+        },
+        "url": "https://t.co/3v7bz53OZq",
+        "username": "Akiraoo_xyn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

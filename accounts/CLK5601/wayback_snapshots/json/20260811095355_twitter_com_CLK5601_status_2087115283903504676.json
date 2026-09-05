@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2087115283903504676",
+    "created_at": "2026-08-11T09:53:55.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T10:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087115283903504676"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SYFSASN/status…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/SYFSASN/status/2087096876860629342",
+          "start": 53,
+          "url": "https://t.co/bcOZOxE3Rz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087115283903504676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087096876860629342",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求求谁能帮帮她吧😭\n既然答应了星星不让星星孤单，那你死了又有谁能去记住星星\n也不能去星星墓前看星星了啊😭 https://t.co/bcOZOxE3Rz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2087115283903504676",
+        "created_at": "2026-08-11T09:53:55.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087115283903504676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SYFSASN/status…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/SYFSASN/status/2087096876860629342",
+              "start": 53,
+              "url": "https://t.co/bcOZOxE3Rz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087115283903504676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087096876860629342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求求谁能帮帮她吧😭\n既然答应了星星不让星星孤单，那你死了又有谁能去记住星星\n也不能去星星墓前看星星了啊😭 https://t.co/bcOZOxE3Rz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953688493160542208",
+        "conversation_id": "2087096876860629342",
+        "created_at": "2026-08-11T08:40:46.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087096876860629342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087096876860629342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 693,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "晚安星星，晚安，我要来找你了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14 /\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）",
+        "id": "1838527847570509826",
+        "is_identity_verified": false,
+        "location": "地球",
+        "most_recent_tweet_id": "2087115283903504676",
+        "name": "闭梦网",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1838527847570509826/1783729576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 1917,
+          "like_count": 5919,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 410
+        },
+        "url": "",
+        "username": "CLK5601",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-08T05:23:44.000Z",
+        "description": "09年3月出厂/视成分fo/友跨🏳️‍⚧️/明日方舟/星穹铁道/大部分pc游戏/不聊政治/有事情请私信/厌世人格上线",
+        "id": "1953688493160542208",
+        "is_identity_verified": false,
+        "location": "二相乐园",
+        "most_recent_tweet_id": "2087098270099345886",
+        "name": "SYFSASN🍥",
+        "pinned_tweet_id": "2085969335932346581",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953688493160542208/1755148670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084611675806949376/9E9BJKam_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 1528,
+          "like_count": 19384,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 835
+        },
+        "url": "",
+        "username": "SYFSASN",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

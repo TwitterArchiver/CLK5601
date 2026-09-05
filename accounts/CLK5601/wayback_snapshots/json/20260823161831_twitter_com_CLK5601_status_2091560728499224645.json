@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2091558685340291257",
+    "created_at": "2026-08-23T16:18:31.000Z",
+    "display_text_range": [
+      15,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T17:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091560728499224645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2085707237155053568",
+          "start": 0,
+          "username": "LingJiaXin520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091560728499224645",
+    "in_reply_to_user_id": "2085707237155053568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091558685340291257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingJiaXin520 唉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1825,
+        "media_key": "3_2091558673743069184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQa1iD9XwAACGKC.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2091558685340291257",
+        "created_at": "2026-08-23T16:18:31.000Z",
+        "display_text_range": [
+          15,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091560728499224645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2085707237155053568",
+              "start": 0,
+              "username": "LingJiaXin520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091560728499224645",
+        "in_reply_to_user_id": "2085707237155053568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091558685340291257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin520 唉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091558673743069184"
+          ]
+        },
+        "author_id": "2085707237155053568",
+        "conversation_id": "2091558685340291257",
+        "created_at": "2026-08-23T16:10:24.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091558685340291257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3PiCJkJoJ",
+              "end": 98,
+              "expanded_url": "https://x.com/LingJiaXin520/status/2091558685340291257/photo/1",
+              "media_key": "3_2091558673743069184",
+              "start": 75,
+              "url": "https://t.co/G3PiCJkJoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091558685340291257",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091558673743069184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对这个事情挺感慨的\n\n在推特看到了太多太多亚硝酸钠紫砂的案例，感觉已经有点麻木了\n\n所以，等待“我们”的到底是理想的天空还是死寂的坟冢？\n\n我不好说 https://t.co/G3PiCJkJoJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14 /\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）/ “豆腐心”不是“刀子嘴”的理由，伤人就是会伤人",
+        "id": "1838527847570509826",
+        "is_identity_verified": false,
+        "location": "地球",
+        "most_recent_tweet_id": "2091560728499224645",
+        "name": "闭梦网",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1838527847570509826/1783729576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 1916,
+          "like_count": 6172,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 450
+        },
+        "url": "",
+        "username": "CLK5601",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-07T12:39:30.000Z",
+        "description": "指派个人账号",
+        "id": "2085707237155053568",
+        "is_identity_verified": true,
+        "location": "未来的未来",
+        "most_recent_tweet_id": "2091558685340291257",
+        "name": "陈嘉欣",
+        "pinned_tweet_id": "2085714787879559219",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085707237155053568/1786108371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085715736387850240/pnzKORNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 17,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "LingJiaXin520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
