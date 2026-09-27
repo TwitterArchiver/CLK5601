@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2081771824812270075",
+    "created_at": "2026-09-17T20:53:52.000Z",
+    "display_text_range": [
+      17,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T21:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100689718237360420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852895432269234176",
+          "start": 0,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100689718237360420",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081771824812270075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@432Ifantrygroup 最近都没发帖了啊。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1035,
+        "media_key": "3_2081771818189471744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPwcF6aQAAZ9yd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2081771824812270075",
+        "created_at": "2026-09-17T20:53:52.000Z",
+        "display_text_range": [
+          17,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T21:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100689718237360420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100689718237360420",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081771824812270075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 最近都没发帖了啊。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081771818189471744"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2081771824812270075",
+        "created_at": "2026-07-27T16:00:55.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081771824812270075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8ZmC4AS5Q",
+              "end": 168,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2081771824812270075/photo/1",
+              "media_key": "3_2081771818189471744",
+              "start": 145,
+              "url": "https://t.co/c8ZmC4AS5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081771824812270075",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2081771818189471744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2660,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "惊闻东野硅谷先生于2026年7月23日因病离世，享年68岁，万分悲痛。\n犹记高中时，在晚自习的课桌下偷偷翻看白夜行,那些被故事撰着的夜晚,至今清晰如 昨天。\n先生遗作永远的记忆将于8月5日面世，这或许就是最后的告别。\n谢谢你的小说陪我熬过漫长的高中晚自习，晚安！陪伴我整个学生时期的作家。 https://t.co/c8ZmC4AS5Q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14 /\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）/ “豆腐心”不是“刀子嘴”的理由，伤人就是会伤人",
+        "id": "1838527847570509826",
+        "is_identity_verified": false,
+        "location": "地球",
+        "most_recent_tweet_id": "2100689718237360420",
+        "name": "闭梦网",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1838527847570509826/1783729576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 1910,
+          "like_count": 6387,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 468
+        },
+        "url": "",
+        "username": "CLK5601",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2081771824812270075",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2071983805750276470",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852895432269234176/1775836087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 3890,
+          "like_count": 44283,
+          "listed_count": 5,
+          "media_count": 548,
+          "tweet_count": 13225
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
