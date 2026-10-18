@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1838527847570509826",
+    "conversation_id": "2105824794352722050",
+    "created_at": "2026-10-02T01:08:19.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T02:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105827185051529272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942218528100134912",
+          "start": 0,
+          "username": "youling_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105827185051529272",
+    "in_reply_to_user_id": "1942218528100134912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105824794352722050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youling_qaq 😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2105824794352722050",
+        "created_at": "2026-10-02T01:08:19.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T02:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105827185051529272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942218528100134912",
+              "start": 0,
+              "username": "youling_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105827185051529272",
+        "in_reply_to_user_id": "1942218528100134912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105824794352722050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youling_qaq 😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942218528100134912",
+        "conversation_id": "2105824794352722050",
+        "created_at": "2026-10-02T00:58:49.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T01:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105824794352722050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PigSozz80951/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/PigSozz80951/status/2105202298121314805",
+              "start": 14,
+              "url": "https://t.co/ODOxGSibTs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105824794352722050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105202298121314805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给各位的tl上面转点好吃的 https://t.co/ODOxGSibTs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14 /\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）/ “豆腐心”不是“刀子嘴”的理由，伤人就是会伤人",
+        "id": "1838527847570509826",
+        "is_identity_verified": false,
+        "location": "地球",
+        "most_recent_tweet_id": "2105827185051529272",
+        "name": "闭梦网",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1838527847570509826/1783729576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 1936,
+          "like_count": 6746,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 483
+        },
+        "url": "",
+        "username": "CLK5601",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-07-07T13:46:08.000Z",
+        "description": "",
+        "id": "1942218528100134912",
+        "is_identity_verified": false,
+        "location": "。",
+        "most_recent_tweet_id": "2105824794352722050",
+        "name": "basibatuo",
+        "pinned_tweet_id": "2088962575677685995",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942218528100134912/1785671866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022914453998891008/mwmzVtyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 1054,
+          "like_count": 10309,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 1342
+        },
+        "url": "",
+        "username": "youling_qaq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
